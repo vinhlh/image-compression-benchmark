@@ -1,1 +1,4 @@
-rsync -avz -e "ssh -p 22 -i ~/.ssh/vinh" ~/Works/vinhlh/image-compression-benchmark ubuntu@52.221.190.93:/home/ubuntu
+rsync -avz -e "ssh -p 22 -i ~/.ssh/vinh.zalora" ~/Works/vinhlh/image-compression-benchmark ubuntu@54.255.241.252:/home/ubuntu \
+  --exclude outputs \
+  --exclude .git \
+  --exclude venv
