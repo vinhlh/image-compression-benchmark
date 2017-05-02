@@ -14,11 +14,15 @@ with 2 image set:
 ### Results
 
 #### CMS images
+```
 inputs 4093 kB 113 files
 libjpeg 3876 kB 113 files
 mozjpeg 3716 kB 113 files -4% smaller
+```
 
 #### Product images
+```
 inputs 79925 kB 493 files
 libjpeg 60094 kB 493 files
 mozjpeg 55325 kB 493 files -7% smaller
+```
