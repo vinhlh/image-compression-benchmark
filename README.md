@@ -48,4 +48,4 @@ Notes:
 ## Conclutions
 - `mozjpeg` is 4.13% - 8% better than `libjpeg`.
 - The output of `guetzli` looks good, can't see the difference with human eyes.
-- The compression time of `guetzli` is extremely slow.
+- The compression time of `guetzli` is extremely slow (On a c4.2xlarge instance, guetzli compression on 493 product images takes 66 minutes).
