@@ -26,24 +26,24 @@ Notes:
 ### CMS images
 - Artifacts: 113 images (`inputs/cms`).
 
-|Image type|Size|Compare to inputs|
-|---|---|---|---|
-| inputs  | 4093 kB | 0% |
-| libjpeg | 3876 kB | -5% smaller |
-| mozjpeg | 3716 kB | -9% smaller |
-| guetzli | 2672 kB | -34% smaller |
-| guetzli_then_mozjpeg | 2582 kB | -36% smaller |
+| Image type           | Size    | Compare to inputs |
+| -------------------- | ------- | ----------------- |
+| inputs               | 4093 kB | 0%                |
+| libjpeg              | 3876 kB | -5% smaller       |
+| mozjpeg              | 3716 kB | -9% smaller       |
+| guetzli              | 2672 kB | -34% smaller      |
+| guetzli_then_mozjpeg | 2582 kB | -36% smaller      |
 
 ### Product images
 - Artifacts: 493 images (`inputs/products`).
 
-|Image type|Size|Compare to inputs|
-|---|---|---|---|
-| inputs  | 79925 kB | 0 |
-| libjpeg | 60094 kB | -24% smaller |
-| mozjpeg | 55325 kB | -30% smaller |
-| guetzli | 43703 kB | -45% smaller |
-| guetzli_then_mozjpeg | 40172 kB | -49% smaller |
+| Image type           | Size     | Compare to inputs |
+| -------------------- | -------- | ----------------- |
+| inputs               | 79925 kB | 0%                |
+| libjpeg              | 60094 kB | -24% smaller      |
+| mozjpeg              | 55325 kB | -30% smaller      |
+| guetzli              | 43703 kB | -45% smaller      |
+| guetzli_then_mozjpeg | 40172 kB | -49% smaller      |
 
 ## Conclutions
 - `mozjpeg` is 4.13% - 8% better than `libjpeg`.
