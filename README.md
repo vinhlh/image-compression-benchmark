@@ -25,6 +25,7 @@ Notes:
 
 ### CMS images
 - Artifacts: 113 images (`inputs/cms`).
+- Low/ medium quality.
 
 | Image type           | Size    | Compare to inputs |
 | -------------------- | ------- | ----------------- |
@@ -36,6 +37,7 @@ Notes:
 
 ### Product images
 - Artifacts: 493 images (`inputs/products`).
+- Good quality.
 
 | Image type           | Size     | Compare to inputs |
 | -------------------- | -------- | ----------------- |
